@@ -17,4 +17,3 @@ Para la auditoría y control técnico del sistema automatizado se establecen los
 
 ## Declaración de Transparencia en el Uso de IA
 Se utilizó asistencia de IA generativa para la redacción y validación sintáctica de las Historias de Usuario bajo el formato formal ágil y para la estructuración preliminar de los estándares técnicos de control.  
-*Control crítico humano:* Se revisó y adaptó manualmente la lógica del modelo BPMN para asegurar la consistencia del flujo de excepción ante fallas de pago y se descartaron sugerencias genéricas para ajustar los indicadores al dominio específico de facturación de software.
